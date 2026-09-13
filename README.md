@@ -1,2 +1,26 @@
-Last updated: 2026-09-13 08:00:34 WIB
-Last updated: 2026-09-13 08:02:07 WIB
+# responsive-website-restaurant
+
+
+
+## 📋 Overview
+
+This repository contains **23 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-13 08:14:10 WIB*
