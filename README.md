@@ -4,7 +4,7 @@
 
 ## 📋 Overview
 
-This repository contains **25 files** and is built with the following technologies:
+This repository contains **24 files** and is built with the following technologies:
 
 HTML
 
@@ -23,4 +23,4 @@ HTML
 MIT License
 
 ---
-*Last updated: 2026-09-18 08:40:05 WIB*
+*Last updated: 2026-09-18 13:20:09 WIB*
